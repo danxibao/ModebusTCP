@@ -1,0 +1,11 @@
+E:\TGS\TGS软件工程\ModeBus\ModeBus\bin\Debug\ModeBus.exe.config
+E:\TGS\Modbus\ModeBus\ModeBus\bin\Debug\ModeBus.exe.config
+E:\TGS\Modbus\ModeBus\ModeBus\bin\Debug\ModeBus.exe
+E:\TGS\Modbus\ModeBus\ModeBus\bin\Debug\ModeBus.pdb
+E:\TGS\Modbus\ModeBus\ModeBus\bin\Debug\log4net.dll
+E:\TGS\Modbus\ModeBus\ModeBus\obj\Debug\ModeBus.csprojResolveAssemblyReference.cache
+E:\TGS\Modbus\ModeBus\ModeBus\obj\Debug\ModeBus.Properties.Resources.resources
+E:\TGS\Modbus\ModeBus\ModeBus\obj\Debug\ModeBus.csproj.GenerateResource.Cache
+E:\TGS\Modbus\ModeBus\ModeBus\obj\Debug\ModeBus.exe
+E:\TGS\Modbus\ModeBus\ModeBus\obj\Debug\ModeBus.pdb
+E:\TGS\Modbus\ModeBus\ModeBus\obj\Debug\ModeBus.Form1.resources
